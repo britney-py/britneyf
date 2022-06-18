@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.slideshow-container {
+    width: 60%;
+    margin: auto;
+}
+
+.slideshow {
+    display: flex;
+}
